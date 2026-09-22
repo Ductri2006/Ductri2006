@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="620" viewBox="0 0 960 620" role="img" aria-labelledby="title desc">
+  <title id="title">The House of Ductri</title>
+  <desc id="desc">An original interlocking DT monogram, engraved into a floating architectural plate. Warm brass edges recede into a walnut-black field above an ivory editorial wordmark.</desc>
+  <defs>
+    <radialGradient id="field" cx="50%" cy="26%" r="78%">
+      <stop stop-color="#292218"/>
+      <stop offset=".48" stop-color="#100E0B"/>
+      <stop offset="1" stop-color="#070706"/>
+    </radialGradient>
+    <linearGradient id="brass" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#8B7447"/>
+      <stop offset=".32" stop-color="#EDE5D3"/>
+      <stop offset=".58" stop-color="#C0A269"/>
+      <stop offset="1" stop-color="#715A35"/>
+    </linearGradient>
+    <linearGradient id="plate" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#292319"/>
+      <stop offset=".55" stop-color="#17140F"/>
+      <stop offset="1" stop-color="#0B0A08"/>
+    </linearGradient>
+    <linearGradient id="edge" x1="0" y1="0" x2="0" y2="1">
+      <stop stop-color="#8B7447" stop-opacity=".6"/>
+      <stop offset="1" stop-color="#8B7447" stop-opacity="0"/>
+    </linearGradient>
+    <path id="monogram" d="M411 128H454C506 128 531 153 531 195C531 237 506 262 454 262H411V254H423V136H411ZM441 139V251H451C492 251 510 231 510 195C510 159 492 139 451 139ZM464 145H557V172H550L547 155H521V273H535V281H487V273H501V155H474L471 172H464Z"/>
+  </defs>
+  <path fill="url(#field)" d="M0 0H960V620H0Z"/>
+  <!-- Receding construction lines establish an architectural setting. -->
+  <g fill="none" stroke="#C0A269" stroke-width="1">
+    <path opacity=".09" d="M0 0L350 76M960 0L610 76M0 370L350 314M960 370L610 314M350 76H610V314H350Z"/>
+    <path opacity=".12" d="M310 46H650V344H310Z"/>
+    <path opacity=".07" d="M282 23H678V366H282Z"/>
+    <path opacity=".18" d="M480 28V57M480 331V359M292 195H321M639 195H668"/>
+  </g>
+  <!-- Offset planes give the face a shallow, machined depth. -->
+  <path fill="#050504" opacity=".65" d="M353 91H625V329H353Z"/>
+  <path fill="#211B12" stroke="#6C5734" stroke-opacity=".45" d="M343 72H610L622 84V323H355L343 311Z"/>
+  <path fill="url(#plate)" stroke="url(#brass)" stroke-opacity=".62" d="M343 72H610V311H343Z"/>
+  <path fill="none" stroke="#C0A269" stroke-opacity=".18" d="M356 85H597V298H356Z"/>
+  <path fill="none" stroke="#DCCBA1" stroke-opacity=".22" d="M610 311L622 323M610 72L622 84"/>
+  <use href="#monogram" fill="#000" opacity=".7" transform="translate(1 3)"/>
+  <use href="#monogram" fill="url(#brass)" fill-rule="evenodd"/>
+  <path stroke="url(#edge)" d="M480 345V388"/>
+  <g text-anchor="middle">
+    <text x="480" y="431" fill="#DCCBA1" font-family="Georgia, 'Times New Roman', serif" font-size="38" letter-spacing="5">THE HOUSE OF</text>
+    <text x="487" y="540" fill="#EDE5D3" font-family="Georgia, 'Times New Roman', serif" font-size="112" letter-spacing="14">DUCTRI</text>
+  </g>
+  <path stroke="#C0A269" stroke-opacity=".45" d="M443 578H517"/>
+</svg>
