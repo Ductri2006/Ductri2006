@@ -1,34 +1,17 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="960" height="360" viewBox="0 0 960 360" role="img" aria-labelledby="title desc">
-  <title id="title">The House of DucTri</title>
-  <desc id="desc">Ivory editorial lettering beside an original brass DT monogram. A shallow inset and a single offset edge suggest architectural depth on a dark walnut field.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="340" viewBox="0 0 960 340" role="img" aria-labelledby="title desc">
+  <title id="title">Nguyen Duc Tri. AI Engineer.</title>
+  <desc id="desc">A technical editorial nameplate: ivory sans-serif lettering on charcoal, with a restrained brass registration line.</desc>
   <defs>
     <linearGradient id="field" x1="0" y1="0" x2="1" y2="1">
-      <stop stop-color="#19150F"/>
-      <stop offset=".6" stop-color="#0D0C0A"/>
-      <stop offset="1" stop-color="#070706"/>
-    </linearGradient>
-    <linearGradient id="brass" x1="0" y1="0" x2="1" y2=".7">
-      <stop stop-color="#DCCBA1"/>
-      <stop offset=".45" stop-color="#C0A269"/>
-      <stop offset="1" stop-color="#8B7447"/>
-    </linearGradient>
-    <linearGradient id="inset" x1="0" y1="0" x2="1" y2="1">
-      <stop stop-color="#211C14"/>
-      <stop offset="1" stop-color="#100E0B"/>
+      <stop stop-color="#191B1D"/>
+      <stop offset="1" stop-color="#090B0D"/>
     </linearGradient>
   </defs>
-  <path fill="url(#field)" d="M0 0H960V360H0Z"/>
-  <!-- One architectural edge; no repeated frames or ornamental grid. -->
-  <path fill="#090807" d="M650 72H888L900 84V290H662L650 278Z"/>
-  <path fill="url(#inset)" stroke="#8B7447" stroke-opacity=".45" d="M650 72H888V278H650Z"/>
-  <path fill="none" stroke="#C0A269" stroke-opacity=".22" d="M888 72L900 84V290L888 278"/>
-  <!-- D counter is isolated from T: overlaps must never punch holes in either letter. -->
-  <path fill="url(#brass)" fill-rule="evenodd" d="M683 107H727C777 107 802 130 802 172C802 214 777 239 727 239H683V231H695V115H683ZM713 118V228H724C764 228 782 209 782 172C782 137 764 118 724 118Z"/>
-  <path fill="#100E0B" d="M760 130H853V160H842L839 142H818V242H832V254H780V242H794V142H774L771 160H760Z"/>
-  <path fill="url(#brass)" d="M762 132H851V157H844L841 140H816V244H830V252H782V244H796V140H772L769 157H762Z"/>
-  <g font-family="Georgia, 'Times New Roman', serif">
-    <text x="60" y="145" fill="#DCCBA1" font-size="52" letter-spacing="2">THE HOUSE OF</text>
-    <text x="54" y="250" fill="#EDE5D3" font-size="108" letter-spacing="6">DUCTRI</text>
+  <path fill="url(#field)" d="M0 0H960V340H0Z"/>
+  <path stroke="#C0A269" stroke-width="3" d="M56 48H145"/>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="54" y="131" fill="#EDE5D3" font-size="64" letter-spacing="1">NGUYEN DUC TRI</text>
+    <text x="49" y="253" fill="#EDE5D3" font-size="110" font-weight="700" letter-spacing="-3">AI ENGINEER</text>
   </g>
-  <path stroke="#8B7447" stroke-opacity=".55" d="M60 290H124"/>
+  <path fill="none" stroke="#A39B8A" stroke-opacity=".35" d="M56 293H905M905 272V293H884"/>
 </svg>

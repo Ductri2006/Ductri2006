@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="190" viewBox="0 0 720 190" role="img" aria-labelledby="title desc">
+  <title id="title">CalTrack inference boundary</title>
+  <desc id="desc">A food photo travels from Flutter through the ASP.NET Core API to Gemini. The resulting nutrition estimate returns through the API to the client.</desc>
+  <defs>
+    <marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M1 1L8 5L1 9" fill="none" stroke="#C0A269" stroke-width="1.5"/></marker>
+  </defs>
+  <path fill="#101315" d="M0 0H720V190H0Z"/>
+  <g fill="#EDE5D3" font-family="Arial, Helvetica, sans-serif" font-size="42" text-anchor="middle">
+    <text x="110" y="84">Flutter</text><text x="360" y="84">API</text><text x="605" y="84">Gemini</text>
+  </g>
+  <g fill="none" stroke="#C0A269" stroke-width="2" marker-start="url(#arrow)" marker-end="url(#arrow)">
+    <path d="M195 64H287"/><path d="M423 64H509"/>
+  </g>
+  <text x="360" y="157" text-anchor="middle" fill="#EDE5D3" font-family="Arial, Helvetica, sans-serif" font-size="40">Photo → nutrition estimate</text>
+</svg>
