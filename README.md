@@ -18,7 +18,7 @@ A joint coursework study of customer churn using the IBM Telco dataset.
 
 Python · NumPy · pandas · scikit-learn
 
-[Repository](https://github.com/Ductri2006/Telco-Customer-Churn-Duy-Tri) · [Experiment notebook](https://github.com/Ductri2006/Telco-Customer-Churn-Duy-Tri/blob/main/logistic_regression_telco_churn.ipynb)
+[Repository](https://github.com/Ductri2006/Telco-Customer-Churn-Duy-Tri) · [Experiment notebook](https://github.com/Ductri2006/Telco-Customer-Churn-Duy-Tri/blob/master/logistic_regression_telco_churn.ipynb)
 
 ### CalTrack / Multimodal integration
 
