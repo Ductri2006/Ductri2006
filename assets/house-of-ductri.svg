@@ -27,7 +27,7 @@
   <path fill="#100E0B" d="M760 130H853V160H842L839 142H818V242H832V254H780V242H794V142H774L771 160H760Z"/>
   <path fill="url(#brass)" d="M762 132H851V157H844L841 140H816V244H830V252H782V244H796V140H772L769 157H762Z"/>
   <g font-family="Georgia, 'Times New Roman', serif">
-    <text x="60" y="145" fill="#DCCBA1" font-size="42" letter-spacing="3">THE HOUSE OF</text>
+    <text x="60" y="145" fill="#DCCBA1" font-size="52" letter-spacing="2">THE HOUSE OF</text>
     <text x="54" y="250" fill="#EDE5D3" font-size="108" letter-spacing="6">DUCTRI</text>
   </g>
   <path stroke="#8B7447" stroke-opacity=".55" d="M60 290H124"/>
