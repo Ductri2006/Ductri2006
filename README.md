@@ -27,9 +27,6 @@ Food-photo analysis in a Flutter calorie tracker. Shared project, presented thro
 - The ASP.NET Core backend compresses images, calls Gemini, and parses a structured nutrition estimate.
 - Provider credentials stay on the server; meal diaries are backed by the API.
 
-<p>
-  <img src="assets/caltrack-flow.svg" width="100%" alt="CalTrack request flow: Flutter sends a food photo to the ASP.NET Core API, which calls Gemini. The nutrition estimate returns through the API to Flutter." />
-</p>
 
 Flutter · Dart · ASP.NET Core · Gemini · PostgreSQL
 
