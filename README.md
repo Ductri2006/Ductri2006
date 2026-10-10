@@ -10,7 +10,6 @@
     <img alt="Focus: AI Engineering" src="https://img.shields.io/badge/Focus-AI%20Engineering-58A6FF?style=flat-square" />
     <img alt="Based in Vietnam" src="https://img.shields.io/badge/Lives-Vietnam-58A6FF?style=flat-square" />
     <a href="https://github.com/Ductri2006?tab=followers"><img alt="GitHub followers" src="https://img.shields.io/github/followers/Ductri2006?label=Followers&amp;style=flat-square&amp;color=58A6FF" /></a>
-    <img alt="Profile views" src="https://komarev.com/ghpvc/?username=Ductri2006&amp;label=Profile+Views&amp;color=58A6FF&amp;style=flat-square" />
   </p>
 
 </div>
@@ -112,18 +111,7 @@ Hey there! 👋 I'm **Nguyễn Đức Trí**, an undergraduate **Artificial Inte
 
 ---
 
-<!-- ========== SNAKE ANIMATION ========== -->
-## 🐍 Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ductri2006/Ductri2006/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ductri2006/Ductri2006/output/github-snake.svg" />
-    <img alt="Snake animation of Ductri2006's GitHub contributions" src="https://raw.githubusercontent.com/Ductri2006/Ductri2006/output/github-snake.svg" />
-  </picture>
-</div>
-
----
+<!-- CONTRIBUTION_SNAKE: activate only after SVG assets exist -->
 
 <!-- ========== RANDOM QUOTE ========== -->
 ## 💬 Random Dev Quote
@@ -143,4 +131,5 @@ Hey there! 👋 I'm **Nguyễn Đức Trí**, an undergraduate **Artificial Inte
 </p>
 
 <p align="center"><sub>Learning the fundamentals. Building useful things. Improving one experiment at a time.</sub></p>
+
 
