@@ -111,7 +111,18 @@ Hey there! 👋 I'm **Nguyễn Đức Trí**, an undergraduate **Artificial Inte
 
 ---
 
-<!-- CONTRIBUTION_SNAKE: activate only after SVG assets exist -->
+<!-- ========== SNAKE ANIMATION ========== -->
+## 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ductri2006/Ductri2006/main/assets/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ductri2006/Ductri2006/main/assets/github-snake.svg" />
+    <img alt="Snake animation of Ductri2006's GitHub contributions" src="https://raw.githubusercontent.com/Ductri2006/Ductri2006/main/assets/github-snake.svg" />
+  </picture>
+</div>
+
+---
 
 <!-- ========== RANDOM QUOTE ========== -->
 ## 💬 Random Dev Quote
