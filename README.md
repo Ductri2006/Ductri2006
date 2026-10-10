@@ -111,15 +111,11 @@ Hey there! 👋 I'm **Nguyễn Đức Trí**, an undergraduate **Artificial Inte
 
 ---
 
-<!-- ========== SNAKE ANIMATION ========== -->
-## 🐍 Contribution Snake
+<!-- ========== MARIO ANIMATION ========== -->
+## 🍄 Mario Contribution World
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ductri2006/Ductri2006/main/assets/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ductri2006/Ductri2006/main/assets/github-snake.svg" />
-    <img alt="Snake animation of Ductri2006's GitHub contributions" src="https://raw.githubusercontent.com/Ductri2006/Ductri2006/main/assets/github-snake.svg" />
-  </picture>
+  <img width="100%" src="https://raw.githubusercontent.com/Ductri2006/Ductri2006/main/assets/github-mario.svg" alt="Mario jumping through Ductri2006's GitHub contribution calendar" />
 </div>
 
 ---
