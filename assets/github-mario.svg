@@ -1,6 +1,6 @@
 <svg width="912" height="178" viewBox="0 0 912 178" xmlns="http://www.w3.org/2000/svg">
   <title>Ductri2006 — Mario Contribution Graph</title>
-  <desc>Real GitHub contributions for Ductri2006 from 2025-11-09 to 2026-11-11; total 312. Adapted from sapthesh/Mario-Contribution-Graph.</desc>
+  <desc>Real GitHub contributions for Ductri2006 from 2025-11-09 to 2026-11-12; total 309. Adapted from sapthesh/Mario-Contribution-Graph.</desc>
   <style>
     .bg { fill: #87CEEB; }
     .empty { fill: rgba(255,255,255,0.2); rx: 2; ry: 2; }
@@ -472,7 +472,7 @@
   <rect x="460" y="110" width="10" height="10" class="empty" />
   <rect x="460" y="124" width="10" height="10" class="empty" />
   <rect x="474" y="40" width="10" height="10" class="empty" />
-  <rect x="474" y="54" width="10" height="10" class="lvl1" />
+  <rect x="474" y="54" width="10" height="10" class="empty" />
   <rect x="474" y="68" width="10" height="10" class="empty" />
   <rect x="474" y="82" width="10" height="10" class="empty" />
   <rect x="474" y="96" width="10" height="10" class="empty" />
@@ -622,6 +622,7 @@
   <rect x="768" y="54" width="10" height="10" class="empty" />
   <rect x="768" y="68" width="10" height="10" class="lvl2" />
   <rect x="768" y="82" width="10" height="10" class="empty" />
+  <rect x="768" y="96" width="10" height="10" class="empty" />
   <g transform="translate(124, 95)">
     <g>
       <animateTransform attributeName="transform" type="translate" values="0,0; 0,0; 0,-20; 0,-20" keyTimes="0;0.135;0.165;1" dur="20s" repeatCount="indefinite" />
@@ -712,7 +713,7 @@
     <animateTransform attributeName="transform" type="translate" values="0,0; 0,0; 0,93; 0,93" keyTimes="0;0.929;0.979;1" dur="20s" repeatCount="indefinite" />
     <polygon points="782,35 797,35 797,45" fill="#00A800" stroke="#000"/>
   </g>
-  <path id="parkour-path" d="M 14 138 L 14 94  Q 27.0 69 40 124 Q 47.0 29 54 54 Q 61.0 29 68 68 Q 75.0 43 82 124 L 96 124 L 110 124 Q 117.0 74 124 99 Q 131.0 74 138 124 L 152 124 L 166 124 Q 173.0 74 180 99 Q 187.0 74 194 124 L 208 124 L 222 124 Q 229.0 74 236 99 Q 243.0 74 250 124 L 264 124 L 278 124 Q 285.0 74 292 99 Q 299.0 74 306 124 L 320 124 L 334 124 Q 341.0 74 348 99 Q 355.0 74 362 124 L 376 124 L 390 124 Q 397.0 74 404 99 Q 411.0 74 418 124 L 432 124 Q 439.0 15 446 40 L 460 40 L 474 40 L 488 40 Q 495.0 1 502 26 L 516 26 Q 523.0 1 530 110 Q 537.0 1 544 26 L 558 26 L 572 26 L 586 26 Q 593.0 1 600 54 Q 607.0 29 614 96 L 628 96 Q 635.0 71 642 124 Q 649.0 43 656 68 Q 663.0 1 670 26 Q 677.0 1 684 40 Q 691.0 1 698 26 Q 705.0 1 712 96 Q 719.0 43 726 68 Q 733.0 43 740 124 L 754 124 Q 761.0 29 768 54 Q 778 34 793 40  L 793 124  L 847 124 " fill="none" stroke="none" />
+  <path id="parkour-path" d="M 14 138 L 14 94  Q 27.0 69 40 124 Q 47.0 29 54 54 Q 61.0 29 68 68 Q 75.0 43 82 124 L 96 124 L 110 124 Q 117.0 74 124 99 Q 131.0 74 138 124 L 152 124 L 166 124 Q 173.0 74 180 99 Q 187.0 74 194 124 L 208 124 L 222 124 Q 229.0 74 236 99 Q 243.0 74 250 124 L 264 124 L 278 124 Q 285.0 74 292 99 Q 299.0 74 306 124 L 320 124 L 334 124 Q 341.0 74 348 99 Q 355.0 74 362 124 L 376 124 L 390 124 Q 397.0 74 404 99 Q 411.0 74 418 124 L 432 124 Q 439.0 15 446 40 L 460 40 Q 467.0 15 474 124 Q 481.0 15 488 40 Q 495.0 1 502 26 L 516 26 Q 523.0 1 530 110 Q 537.0 1 544 26 L 558 26 L 572 26 L 586 26 Q 593.0 1 600 54 Q 607.0 29 614 96 L 628 96 Q 635.0 71 642 124 Q 649.0 43 656 68 Q 663.0 1 670 26 Q 677.0 1 684 40 Q 691.0 1 698 26 Q 705.0 1 712 96 Q 719.0 43 726 68 Q 733.0 43 740 124 L 754 124 Q 761.0 29 768 54 Q 778 34 793 40  L 793 124  L 847 124 " fill="none" stroke="none" />
   <use href="#mario">
     <animateMotion dur="20s" repeatCount="indefinite"><mpath href="#parkour-path"/></animateMotion>
   </use>
